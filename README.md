@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **MQUAD**
 
-- 🤝 I’m looking for help with **IWSMS,Case Trackin,PCCDS,Rural Dovleptement**
-
 - 📫 How to reach me **deepakcprindev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

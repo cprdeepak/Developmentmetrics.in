@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadavanshi</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cprdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="cprdeepak" /> </p>
 
-- 🔭 I’m currently working on **GSK**
+- 🔭 I’m currently working on **Developmentmetrics.in**
 
-- 🌱 I’m currently learning **JAVA,Kotlin,Jatpak Compose**
+- 🌱 I’m currently learning **PHP,CI4,Laravel**
 
-- 👯 I’m looking to collaborate on **MQUAD**
+- 👯 I’m looking to collaborate on **MKCF**
 
 - 📫 How to reach me **deepakcprindev@gmail.com**
 

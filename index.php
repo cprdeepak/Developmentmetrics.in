@@ -7,8 +7,6 @@
 </head>
 <body>
     <h1>Deepak</h1>
-    <h1>Deepak</h1>
-    <h1>Deepak</h1>
-    <h1>Deepak</h1>
+      <h1> Yadav </h1>
 </body>
 </html>
